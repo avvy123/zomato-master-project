@@ -97,5 +97,3 @@ Router.get("/google/callback", passport.authenticate("google", { failureRedirect
 
 export default Router;
 
-// 34913458399-421oqqrscqu58e8haitn6luh3qd3qctp.apps.googleusercontent.com
-// sItLMIEjjGzjSwZZ931G45oW
